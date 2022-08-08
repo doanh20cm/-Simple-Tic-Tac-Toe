@@ -1,0 +1,1 @@
+print([_[0] for _ in students if _[1] == 'A'])
